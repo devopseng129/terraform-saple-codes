@@ -1,0 +1,6 @@
+.ec2.tf.swp
+.git
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
